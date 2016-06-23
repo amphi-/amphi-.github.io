@@ -1,0 +1,103 @@
+{
+  "_args": [
+    [
+      "furtive",
+      "/Users/Simon/www/sites/beats"
+    ]
+  ],
+  "_from": "furtive@latest",
+  "_id": "furtive@2.2.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/furtive",
+  "_nodeVersion": "5.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/furtive-2.2.4.tgz_1462465847950_0.609739258652553"
+  },
+  "_npmUser": {
+    "email": "johnotander@gmail.com",
+    "name": "johno"
+  },
+  "_npmVersion": "3.7.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "furtive",
+    "raw": "furtive",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/furtive/-/furtive-2.2.4.tgz",
+  "_shasum": "f1bbf274edae4138d161baf68a445ca69ef2b4a5",
+  "_shrinkwrap": null,
+  "_spec": "furtive",
+  "_where": "/Users/Simon/www/sites/beats",
+  "author": {
+    "email": "johnotander@gmail.com",
+    "name": "John Otander",
+    "url": "http://johnotander.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/johnotander/furtive/issues"
+  },
+  "dependencies": {},
+  "description": "A forward-thinking, CSS micro-framework. Minimal by design.",
+  "devDependencies": {
+    "a11y": "^0.2.2",
+    "gray": "0.0.4",
+    "gulp": "^3.8.8",
+    "gulp-autoprefixer": "^1.0.1",
+    "gulp-clean": "^0.3.1",
+    "gulp-header": "^1.2.2",
+    "gulp-minify-css": "^0.3.10",
+    "gulp-rename": "^1.2.0",
+    "gulp-replace": "^0.5.0",
+    "gulp-rework": "^1.0.2",
+    "gulp-sass": "^0.7.3",
+    "gulp-size": "^1.1.0",
+    "gulp-stylus": "^2.0.1",
+    "gulp-uncss": "^0.5.1",
+    "gulp-util": "^3.0.1",
+    "normalize.css": "^3.0.1",
+    "rework-flex-grid": "0.0.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "f1bbf274edae4138d161baf68a445ca69ef2b4a5",
+    "tarball": "https://registry.npmjs.org/furtive/-/furtive-2.2.4.tgz"
+  },
+  "gitHead": "53396e5d3669b528faac39c92032721fe36c58ee",
+  "homepage": "https://github.com/johnotander/furtive",
+  "keywords": [
+    "css",
+    "framework",
+    "furtive",
+    "microframework",
+    "scss",
+    "stylus"
+  ],
+  "license": "MIT",
+  "main": "gulpfile.js",
+  "maintainers": [
+    {
+      "name": "johno",
+      "email": "johnotander@gmail.com"
+    }
+  ],
+  "name": "furtive",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnotander/furtive.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.2.4"
+}
